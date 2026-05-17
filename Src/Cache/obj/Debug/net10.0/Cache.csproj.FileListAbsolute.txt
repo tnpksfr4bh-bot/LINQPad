@@ -1,0 +1,13 @@
+C:\Users\gemzo\LINQPad\Src\Cache\obj\Debug\net10.0\Cache.csproj.AssemblyReference.cache
+C:\Users\gemzo\LINQPad\Src\Cache\obj\Debug\net10.0\Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gemzo\LINQPad\Src\Cache\obj\Debug\net10.0\Cache.AssemblyInfoInputs.cache
+C:\Users\gemzo\LINQPad\Src\Cache\obj\Debug\net10.0\Cache.AssemblyInfo.cs
+C:\Users\gemzo\LINQPad\Src\Cache\obj\Debug\net10.0\Cache.csproj.CoreCompileInputs.cache
+C:\Users\gemzo\LINQPad\Src\Cache\obj\Debug\net10.0\Cache.sourcelink.json
+C:\Users\gemzo\LINQPad\Src\Cache\bin\Debug\net10.0\Cache.deps.json
+C:\Users\gemzo\LINQPad\Src\Cache\bin\Debug\net10.0\Cache.dll
+C:\Users\gemzo\LINQPad\Src\Cache\bin\Debug\net10.0\Cache.pdb
+C:\Users\gemzo\LINQPad\Src\Cache\obj\Debug\net10.0\Cache.dll
+C:\Users\gemzo\LINQPad\Src\Cache\obj\Debug\net10.0\refint\Cache.dll
+C:\Users\gemzo\LINQPad\Src\Cache\obj\Debug\net10.0\Cache.pdb
+C:\Users\gemzo\LINQPad\Src\Cache\obj\Debug\net10.0\ref\Cache.dll

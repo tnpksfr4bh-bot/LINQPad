@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "u1piQJV1k60=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gemzo\\LINQPad\\Src\\Cache\\Cache.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gemzo\\.nuget\\packages\\messagepack\\2.3.85\\messagepack.2.3.85.nupkg.sha512",
+    "C:\\Users\\gemzo\\.nuget\\packages\\messagepack.annotations\\2.3.85\\messagepack.annotations.2.3.85.nupkg.sha512",
+    "C:\\Users\\gemzo\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\gemzo\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.1\\microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
+    "C:\\Users\\gemzo\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\8.0.10\\microsoft.extensions.caching.stackexchangeredis.8.0.10.nupkg.sha512",
+    "C:\\Users\\gemzo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\gemzo\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\gemzo\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\gemzo\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\gemzo\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\gemzo\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\gemzo\\.nuget\\packages\\stackexchange.redis\\2.7.27\\stackexchange.redis.2.7.27.nupkg.sha512",
+    "C:\\Users\\gemzo\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\gemzo\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\gemzo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\gemzo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "'MessagePack' 2.3.85 패키지에 알려진 보통 심각도 취약성인 https://github.com/advisories/GHSA-4qm4-8hg2-g2xm이(가) 있습니다.",
+      "projectPath": "C:\\Users\\gemzo\\LINQPad\\Src\\Cache\\Cache.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\gemzo\\LINQPad\\Src\\Cache\\Cache.csproj",
+      "libraryId": "MessagePack",
+      "targetGraphs": [
+        "net10.0",
+        "net8.0"
+      ]
+    }
+  ]
+}
