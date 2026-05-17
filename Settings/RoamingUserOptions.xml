@@ -1,5 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UserOptions xmlns="http://schemas.datacontract.org/2004/07/LINQPad">
+  <DefaultLanguage>Expression</DefaultLanguage>
+  <EnableUIAutomation>true</EnableUIAutomation>
+  <MaxQueryRows>1000</MaxQueryRows>
+  <MaxQueryRowsForGrid>25000000</MaxQueryRowsForGrid>
   <MemberOrderMode>0</MemberOrderMode>
   <NoNativeKeysQuestion>true</NoNativeKeysQuestion>
+  <NuGetVulnerabilityExclusions></NuGetVulnerabilityExclusions>
+  <NumericFormatStringForIntegrals></NumericFormatStringForIntegrals>
+  <NumericFormatStringForReals></NumericFormatStringForReals>
+  <DontShowUndoBufferMessage>true</DontShowUndoBufferMessage>
 </UserOptions>

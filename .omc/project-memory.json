@@ -1,0 +1,299 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1779025919895,
+  "projectRoot": "c:\\Users\\gemzo\\LINQPad",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "Plugins": {
+      "path": "Plugins",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1779025919866,
+      "keyFiles": []
+    },
+    "Queries": {
+      "path": "Queries",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1779025919867,
+      "keyFiles": []
+    },
+    "Settings": {
+      "path": "Settings",
+      "purpose": null,
+      "fileCount": 4,
+      "lastAccessed": 1779025919867,
+      "keyFiles": [
+        "AIOptions.xml",
+        "AutoFormattingOptions.xml",
+        "NuGetConfig.xml",
+        "RoamingUserOptions.xml"
+      ]
+    },
+    "Snippets": {
+      "path": "Snippets",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1779025919868,
+      "keyFiles": []
+    },
+    "Queries\\Models": {
+      "path": "Queries\\Models",
+      "purpose": "Data models",
+      "fileCount": 7,
+      "lastAccessed": 1779025919869,
+      "keyFiles": [
+        "AppConfigModel.linq",
+        "CmsModel.linq",
+        "GameModel.linq"
+      ]
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "Queries\\Crypto\\AesCrypto.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025977845,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Crypto\\SecureStringGenerator.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025978270,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Crypto\\HashUtility.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025978658,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Crypto\\EcdsaCrypto.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025979033,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Crypto\\RsaCrypto.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025979406,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Iap\\AppleIapService.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025979785,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Iap\\AppleSubscriptionService.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025980203,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Iap\\GoogleIapService.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025980871,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Cache\\LocalCacheManager.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025981310,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Cache\\DistributedCacheManager.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025981701,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Cache\\StringTableCache.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025982063,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Cache\\RedisConnectionFactory.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025982455,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Database\\SshMySqlConnection.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025982870,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Database\\MySqlRepository.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025983244,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Database\\DynamoDbRepository.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025983629,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Database\\AuroraDataService.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025983991,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Network\\RetryHttpClient.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025984383,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Network\\GrpcHealthCheckClient.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025984763,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Network\\MagicOnionClient.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025985109,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Utility\\GzipCompressor.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025985523,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Utility\\UlidConverter.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025985896,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Utility\\DateTimeUtility.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025986568,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Utility\\HttpStatusCodeHelper.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025986939,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Utility\\ConfigurationExtensions.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025987338,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Utility\\CertificateConverter.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025987734,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Models\\UserModel.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025988120,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Models\\IapModel.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025988496,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Models\\GameModel.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025988881,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Models\\AppConfigModel.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025989250,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Models\\SnsModel.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025989653,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Models\\CmsModel.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025990046,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Models\\ServiceModel.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025990432,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Infra\\PlatformEnums.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025990800,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Infra\\DependencyInjectionSetup.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025991118,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Infra\\BenchmarkSetup.linq",
+      "accessCount": 1,
+      "lastAccessed": 1779025991612,
+      "type": "file"
+    },
+    {
+      "path": "docs\\security-audit-2026-05-17.md",
+      "accessCount": 1,
+      "lastAccessed": 1779026517762,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
