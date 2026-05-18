@@ -7,6 +7,8 @@
   <Namespace>System.IO.Hashing</Namespace>
 </Query>
 
+#load "HashUtility.cs"
+
 async Task Main()
 {
 	var text = "hello hash";
@@ -17,22 +19,4 @@ async Task Main()
 	Console.WriteLine($"CRC64   : {CrcHasher.Crc64Hex(data)}");
 	Console.WriteLine($"XXH64   : {XxHasher.Xxh64Hex(data)}");
 	Console.WriteLine($"XXH3-64 : {XxHasher.Xxh3Hex(data)}");
-}
-
-public static class CrcHasher
-{
-	public static string Crc32Hex(byte[] data)
-		=> "0x" + Convert.ToHexString(Crc32.Hash(data).Reverse().ToArray()).ToLower();
-
-	public static string Crc64Hex(byte[] data)
-		=> Convert.ToHexString(Crc64.Hash(data)).ToLower();
-}
-
-public static class XxHasher
-{
-	public static string Xxh64Hex(byte[] data)
-		=> XXH64.DigestOf(data).ToString("x16");
-
-	public static string Xxh3Hex(byte[] data, ulong seed = 0)
-		=> XxHash3.HashToUInt64(data, (long)seed).ToString("x16", CultureInfo.InvariantCulture);
 }
