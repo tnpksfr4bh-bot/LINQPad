@@ -1,0 +1,2 @@
+# LINQPad custom key bindings for macOS
+

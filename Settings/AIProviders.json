@@ -1,0 +1,9 @@
+{
+  "Providers": [
+    {
+      "Provider": "OpenAI",
+      "Instance": "",
+      "UserModels": []
+    }
+  ]
+}

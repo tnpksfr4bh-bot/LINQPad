@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <UserOptions xmlns="http://schemas.datacontract.org/2004/07/LINQPad">
   <DefaultLanguage>Expression</DefaultLanguage>
   <DontShowUndoBufferMessage>true</DontShowUndoBufferMessage>
