@@ -10,8 +10,8 @@
   <IncludeAspNet>true</IncludeAspNet>
 </Query>
 
-#load "../../Src/Cache/IRedisDistributedCache.cs"
-#load "../../Src/Cache/RedisDistributedCache.cs"
+#load "IRedisDistributedCache.cs"
+#load "RedisDistributedCache.cs"
 
 // --- Test ---
 async Task Main()

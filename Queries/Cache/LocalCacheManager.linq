@@ -9,8 +9,8 @@
   <IncludeAspNet>true</IncludeAspNet>
 </Query>
 
-#load "../../Src/Cache/ILocalMemoryCache.cs"
-#load "../../Src/Cache/LocalMemoryCache.cs"
+#load "ILocalMemoryCache.cs"
+#load "LocalMemoryCache.cs"
 
 // --- Test ---
 void Main()

@@ -2,7 +2,7 @@
   <Namespace>Common</Namespace>
 </Query>
 
-#load "../../Src/Common/StringTableCache.cs"
+#load "../Common/StringTableCache.cs"
 
 // --- Test ---
 StringTableCache.Set("greeting__KO__KR", "안녕하세요");

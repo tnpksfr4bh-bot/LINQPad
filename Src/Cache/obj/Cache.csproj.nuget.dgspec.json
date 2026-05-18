@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gemzo\\LINQPad\\Src\\Cache\\Cache.csproj": {}
+    "C:\\Users\\gemzo\\LINQPad\\Src\\Cache\\Cache.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gemzo\\LINQPad\\Src\\Cache\\Cache.csproj": {
+    "C:\\Users\\gemzo\\LINQPad\\Src\\Cache\\Cache.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gemzo\\LINQPad\\Src\\Cache\\Cache.csproj",
+        "projectUniqueName": "C:\\Users\\gemzo\\LINQPad\\Src\\Cache\\Cache.csproj",
         "projectName": "Cache",
-        "projectPath": "c:\\Users\\gemzo\\LINQPad\\Src\\Cache\\Cache.csproj",
+        "projectPath": "C:\\Users\\gemzo\\LINQPad\\Src\\Cache\\Cache.csproj",
         "packagesPath": "C:\\Users\\gemzo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gemzo\\LINQPad\\Src\\Cache\\obj\\",
+        "outputPath": "C:\\Users\\gemzo\\LINQPad\\Src\\Cache\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

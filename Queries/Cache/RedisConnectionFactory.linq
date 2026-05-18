@@ -5,8 +5,8 @@
   <IncludeAspNet>true</IncludeAspNet>
 </Query>
 
-#load "../../Src/Cache/RedisConfig.cs"
-#load "../../Src/Cache/RedisConnectionFactory.cs"
+#load "RedisConfig.cs"
+#load "RedisConnectionFactory.cs"
 
 // --- Test ---
 void Main()

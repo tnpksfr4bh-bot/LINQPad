@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1779025919895,
+  "lastScanned": 1779112630025,
   "projectRoot": "c:\\Users\\gemzo\\LINQPad",
   "techStack": {
     "languages": [],
@@ -24,7 +24,9 @@
   "structure": {
     "isMonorepo": false,
     "workspaces": [],
-    "mainDirectories": [],
+    "mainDirectories": [
+      "docs"
+    ],
     "gitBranches": {
       "defaultBranch": "main",
       "branchingStrategy": null
@@ -32,25 +34,36 @@
   },
   "customNotes": [],
   "directoryMap": {
+    "docs": {
+      "path": "docs",
+      "purpose": "Documentation",
+      "fileCount": 1,
+      "lastAccessed": 1779112629873,
+      "keyFiles": [
+        "security-audit-2026-05-17.md"
+      ]
+    },
     "Plugins": {
       "path": "Plugins",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1779025919866,
+      "lastAccessed": 1779112629874,
       "keyFiles": []
     },
     "Queries": {
       "path": "Queries",
       "purpose": null,
-      "fileCount": 0,
-      "lastAccessed": 1779025919867,
-      "keyFiles": []
+      "fileCount": 1,
+      "lastAccessed": 1779112629875,
+      "keyFiles": [
+        "AGENTS.md"
+      ]
     },
     "Settings": {
       "path": "Settings",
       "purpose": null,
       "fileCount": 4,
-      "lastAccessed": 1779025919867,
+      "lastAccessed": 1779112629875,
       "keyFiles": [
         "AIOptions.xml",
         "AutoFormattingOptions.xml",
@@ -62,14 +75,21 @@
       "path": "Snippets",
       "purpose": null,
       "fileCount": 0,
-      "lastAccessed": 1779025919868,
+      "lastAccessed": 1779112629876,
+      "keyFiles": []
+    },
+    "Src": {
+      "path": "Src",
+      "purpose": "Source code",
+      "fileCount": 0,
+      "lastAccessed": 1779112629876,
       "keyFiles": []
     },
     "Queries\\Models": {
       "path": "Queries\\Models",
       "purpose": "Data models",
       "fileCount": 7,
-      "lastAccessed": 1779025919869,
+      "lastAccessed": 1779112629877,
       "keyFiles": [
         "AppConfigModel.linq",
         "CmsModel.linq",
@@ -78,6 +98,84 @@
     }
   },
   "hotPaths": [
+    {
+      "path": "Queries\\Cache\\DistributedCacheManager.linq",
+      "accessCount": 5,
+      "lastAccessed": 1779113286413,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Cache\\LocalCacheManager.linq",
+      "accessCount": 5,
+      "lastAccessed": 1779113288137,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Cache\\RedisConnectionFactory.linq",
+      "accessCount": 5,
+      "lastAccessed": 1779113291856,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\Cache\\StringTableCache.linq",
+      "accessCount": 5,
+      "lastAccessed": 1779113293110,
+      "type": "file"
+    },
+    {
+      "path": "",
+      "accessCount": 4,
+      "lastAccessed": 1779113123608,
+      "type": "directory"
+    },
+    {
+      "path": "Src\\Cache\\Cache.csproj",
+      "accessCount": 3,
+      "lastAccessed": 1779113123678,
+      "type": "file"
+    },
+    {
+      "path": "Src\\Common\\Common.csproj",
+      "accessCount": 3,
+      "lastAccessed": 1779113123739,
+      "type": "file"
+    },
+    {
+      "path": "Src\\Cache\\ILocalMemoryCache.cs",
+      "accessCount": 2,
+      "lastAccessed": 1779113207978,
+      "type": "file"
+    },
+    {
+      "path": "Src\\Cache\\IRedisDistributedCache.cs",
+      "accessCount": 2,
+      "lastAccessed": 1779113208398,
+      "type": "file"
+    },
+    {
+      "path": "Src\\Cache\\LocalMemoryCache.cs",
+      "accessCount": 2,
+      "lastAccessed": 1779113208813,
+      "type": "file"
+    },
+    {
+      "path": "Src\\Cache\\RedisConfig.cs",
+      "accessCount": 2,
+      "lastAccessed": 1779113209184,
+      "type": "file"
+    },
+    {
+      "path": "Src\\Cache\\RedisConnectionFactory.cs",
+      "accessCount": 2,
+      "lastAccessed": 1779113209616,
+      "type": "file"
+    },
+    {
+      "path": "Src\\Common\\StringTableCache.cs",
+      "accessCount": 2,
+      "lastAccessed": 1779113210171,
+      "type": "file"
+    },
     {
       "path": "Queries\\Crypto\\AesCrypto.linq",
       "accessCount": 1,
@@ -124,30 +222,6 @@
       "path": "Queries\\Iap\\GoogleIapService.linq",
       "accessCount": 1,
       "lastAccessed": 1779025980871,
-      "type": "file"
-    },
-    {
-      "path": "Queries\\Cache\\LocalCacheManager.linq",
-      "accessCount": 1,
-      "lastAccessed": 1779025981310,
-      "type": "file"
-    },
-    {
-      "path": "Queries\\Cache\\DistributedCacheManager.linq",
-      "accessCount": 1,
-      "lastAccessed": 1779025981701,
-      "type": "file"
-    },
-    {
-      "path": "Queries\\Cache\\StringTableCache.linq",
-      "accessCount": 1,
-      "lastAccessed": 1779025982063,
-      "type": "file"
-    },
-    {
-      "path": "Queries\\Cache\\RedisConnectionFactory.linq",
-      "accessCount": 1,
-      "lastAccessed": 1779025982455,
       "type": "file"
     },
     {
@@ -293,6 +367,36 @@
       "accessCount": 1,
       "lastAccessed": 1779026517762,
       "type": "file"
+    },
+    {
+      "path": "CLAUDE.md",
+      "accessCount": 1,
+      "lastAccessed": 1779027621315,
+      "type": "file"
+    },
+    {
+      "path": "Queries\\AGENTS.md",
+      "accessCount": 1,
+      "lastAccessed": 1779027631566,
+      "type": "file"
+    },
+    {
+      "path": "Src\\Cache\\RedisDistributedCache.cs",
+      "accessCount": 1,
+      "lastAccessed": 1779029787525,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 1,
+      "lastAccessed": 1779030258402,
+      "type": "file"
+    },
+    {
+      "path": "Queries",
+      "accessCount": 1,
+      "lastAccessed": 1779112968802,
+      "type": "directory"
     }
   ],
   "userDirectives": []
