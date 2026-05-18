@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WyCvHdKH9AM=",
+  "dgSpecHash": "YWtskZh93iE=",
   "success": true,
-  "projectFilePath": "c:\\Users\\gemzo\\LINQPad\\Src\\Cache\\Cache.csproj",
+  "projectFilePath": "c:\\Users\\gemzo\\LINQPad\\Queries\\Cache\\Cache.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gemzo\\.nuget\\packages\\messagepack\\2.3.85\\messagepack.2.3.85.nupkg.sha512",
     "C:\\Users\\gemzo\\.nuget\\packages\\messagepack.annotations\\2.3.85\\messagepack.annotations.2.3.85.nupkg.sha512",
@@ -26,9 +26,9 @@
       "code": "NU1902",
       "level": "Warning",
       "message": "'MessagePack' 2.3.85 패키지에 알려진 보통 심각도 취약성인 https://github.com/advisories/GHSA-4qm4-8hg2-g2xm이(가) 있습니다.",
-      "projectPath": "c:\\Users\\gemzo\\LINQPad\\Src\\Cache\\Cache.csproj",
+      "projectPath": "c:\\Users\\gemzo\\LINQPad\\Queries\\Cache\\Cache.csproj",
       "warningLevel": 1,
-      "filePath": "c:\\Users\\gemzo\\LINQPad\\Src\\Cache\\Cache.csproj",
+      "filePath": "c:\\Users\\gemzo\\LINQPad\\Queries\\Cache\\Cache.csproj",
       "libraryId": "MessagePack",
       "targetGraphs": [
         "net10.0",
